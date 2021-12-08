@@ -1,11 +1,6 @@
-**🔨 PRs welcomed!**
-
 # BEM Examples
-A list of websites using the BEM methodology for naming their CSS.
+BEM 방법론은 사용하여 만든 웹 사이트 목록입니다.
 
-I sometimes sturggle finding out the best way to name things in CSS. So I have decided to make a list of sites that us BEM<small>*</small> for future reference.
-
-*This includes site that use their own version of BEM naming.
 
 ## Websites
 - [FWS Properties](https://www.fwsproperties.co.uk/)
