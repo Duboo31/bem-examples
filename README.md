@@ -1,6 +1,5 @@
 # BEM Examples
-BEM 방법론은 사용하여 만든 웹 사이트 목록입니다.
-
+BEM 방법론은 사용하여 만든 웹 사이트 목록 리스트
 
 ## Websites
 - [FWS Properties](https://www.fwsproperties.co.uk/)
